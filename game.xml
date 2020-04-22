@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<questions>
+		
+		
+		<question>
+			<q_text>1_Hola is a formal greeting in..?</q_text>
+			<A>Spanish</A>
+			<B>Arabic</B>
+			<C>English</C>
+
+			<correct>A</correct>
+			
+		</question>
+		
+		<question>
+			<q_text>2_Which mean Marhabaa in?</q_text>
+			<A>English </A>
+			<B>Arabic </B>
+			<C>Spanish </C>
+
+			<correct>B</correct>
+		</question>
+
+		<question>
+			<q_text>3_Salut (suh.Loo) in?</q_text>
+			<A>Arabic</A>
+			<B>China</B>
+			<C>French</C>
+
+			<correct>C</correct>
+		</question>
+		<question>
+			<q_text>4_Ni^ hao?</q_text>
+			<A>China </A>
+			<B>Arabic </B>
+			<C>Spanish </C>
+
+			<correct>A</correct>
+		</question>
+		<question>
+			<q_text>5_Hallo in?</q_text>
+			<A>English </A>
+			<B>German </B>
+			<C>Spanish </C>
+
+			<correct>B</correct>
+		</question>
+		<question>
+			<q_text>6_Salve in?</q_text>
+			<A>English </A>
+			<B>Arabic </B>
+			<C>Italian </C>
+
+			<correct>C</correct>
+		</question>
+		<question>
+			<q_text>7_Merhaba (Meraba)in?</q_text>
+			<A>Turkish </A>
+			<B>Italin </B>
+			<C>Spanish </C>
+
+			<correct>A</correct>
+		</question>
+		<question>
+			<q_text>8_Czes'c' in?</q_text>
+			<A>India </A>
+			<B>Polish </B>
+			<C>Spanish </C>
+
+			<correct>B</correct>
+		</question>
+		<question>
+			<q_text>9_Hej (hey) in?</q_text>
+			<A>Turkish </A>
+			<B>Arabic </B>
+			<C>Danish </C>
+
+			<correct>C</correct>
+		</question>
+		<question>
+			<q_text>10_Barev in?</q_text>
+			<A>Armenian </A>
+			<B>Danish </B>
+			<C>Spanish </C>
+
+			<correct>A</correct>
+		</question>
+		
+	</questions>
+</game>
